@@ -1,1 +1,1 @@
-export const CROWDFUNDING_FACTORY = "0x74F9f88bd03BBb128C4d9BbDdf09C74f23cD3f0C";
+export const CROWDFUNDING_FACTORY = "your smart contract address";
