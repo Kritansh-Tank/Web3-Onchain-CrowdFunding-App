@@ -11,6 +11,26 @@
 - **Local Blockchain Testing**: Truffle and Ganache used for smart contract testing.
 - **Deployment on Vercel**: Hosted frontend on Vercel for easy access.
 
+## Smart Contracts
+This project consists of two Solidity smart contracts:
+
+### Crowdfunding.sol
+- Implements an individual crowdfunding campaign.
+- **Features:**
+  - Campaign name, description, goal, and deadline.
+  - Tracks contributions and backers.
+  - Supports funding tiers (different levels of contributions).
+  - Campaign states: Active, Successful, Failed.
+  - Includes `paused` functionality to halt transactions if needed.
+
+### CrowdfundingFactory.sol
+- A factory contract to create and manage multiple crowdfunding campaigns.
+- **Features:**
+  - Allows users to deploy new **Crowdfunding** contracts.
+  - Stores campaign details (name, owner, creation time).
+  - Maps campaigns to their owners.
+  - Includes `paused` functionality to disable new campaign creation.
+
 ## Technologies Used
 ### Backend
 - **Solidity** - Smart contract development
