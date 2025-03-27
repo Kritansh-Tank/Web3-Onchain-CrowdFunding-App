@@ -66,10 +66,10 @@ This project consists of two Solidity smart contracts:
 
 ![Campaign Details & Funding Tiers](https://drive.google.com/uc?id=1eqDmKlU1gdCJLa6NawxcPnrULoK35tNQ)
 
-- **Create New Campaign**
-
-![Create New Campaign](https://drive.google.com/uc?id=1vgwEYRMt2VtXZ1b3mmDuAEAJpoL96t2G)
-
 - **Dashboard**
 
 ![Dashboard](https://drive.google.com/uc?id=1_jLxLjD5ySkbv4ruSLA7rPJmR2twDxmB)
+
+- **Create New Campaign**
+
+![Create New Campaign](https://drive.google.com/uc?id=1vgwEYRMt2VtXZ1b3mmDuAEAJpoL96t2G)
