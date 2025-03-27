@@ -1,4 +1,4 @@
-## Web3-Onchain-CrowdFunding-App
+## Web3 Onchain CrowdFunding App
 
 #### This project was developed as part of our **Project-Based Learning (PBL)** for the subject **Blockchain and Digital Currency (BDC)**. Our team of four collaborated to build a blockchain-based solution inspired by the concepts covered in our coursework.
 
