@@ -49,7 +49,7 @@ This project consists of two Solidity smart contracts:
 ## Team Members
 1. Kritansh Tank - PRN: 2143110058, Roll No: 07 
 2. Ujjwal Singh - PRN: 2143110035, Roll No: 08
-3. [Mitali Chaudhari] - PRN: 2143110046, Roll No: 09
+3. Mitali Chaudhari - PRN: 2143110046, Roll No: 09
 4. Rohan Singh - PRN: 2143110044, Roll No: 10
 
 ## Demo
