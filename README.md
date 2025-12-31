@@ -1,6 +1,4 @@
-## Web3 Onchain CrowdFunding App
-
-#### This project was developed as part of our **Project-Based Learning (PBL)** for the subject **Block Chain and Digital Currency (BDC)**. Our team of four collaborated to build a blockchain-based solution inspired by the concepts covered in our coursework.
+# Web3 Onchain CrowdFunding App
 
 ## Features
 - **Smart Contract Implementation**: Developed using Solidity and deployed on a local blockchain.
